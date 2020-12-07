@@ -69,3 +69,15 @@ header{
 .search{
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .book{
+    width: calc(100% / 4 - 20px);
+    height: 200px;
+}
+
+@media screen and (max-width: 500px) {
+  .book{
+    width: calc(100% / 2 - 20px);
+    height: 200px;
+}
