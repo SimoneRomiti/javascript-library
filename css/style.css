@@ -70,7 +70,7 @@ header{
   text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .book{
     width: calc(100% / 4 - 20px);
     height: 200px;
