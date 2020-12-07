@@ -73,11 +73,11 @@ header{
 @media screen and (max-width: 900px) {
   .book{
     width: calc(100% / 4 - 20px);
-    height: 200px;
+    height: 250px;
 }
 
 @media screen and (max-width: 500px) {
   .book{
     width: calc(100% / 2 - 20px);
-    height: 200px;
+    height: 210px;
 }
